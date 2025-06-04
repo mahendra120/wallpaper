@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">wallpaper2.0</string>
+    <string name="title_activity_startactivity">startactivity</string>
+    <string name="title_activity_maxsizewallpaper">maxsizewallpaper</string>
+    <string name="title_activity_like">Like</string>
+    <string name="title_activity_likecards">likecards</string>
+</resources>
