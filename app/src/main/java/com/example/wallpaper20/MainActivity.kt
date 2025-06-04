@@ -50,6 +50,9 @@ import com.bumptech.glide.integration.compose.GlideImage
 import com.example.wallpaper20.ui.theme.fffff
 import com.example.wallpaper20.ui.theme.textcolor
 
+/*
+* git test
+* */
 
 @SuppressLint("MutableCollectionMutableState")
 class MainActivity : ComponentActivity() {
